@@ -2,7 +2,7 @@
 
 Projeto de tratamento de dados reais do dataset de RH da IBM, simulando um cenário comum no dia a dia de um analista de dados: receber uma base com problemas e entregar dados limpos e confiáveis.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luccasnn/limpeza-dados/blob/main/limpeza_dados.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luccasnn/limpeza-de-dados/blob/main/limpeza_dados.ipynb)
 
 ## O problema
 
